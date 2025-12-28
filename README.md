@@ -210,7 +210,7 @@ Key Takeaways
 - Cost-efficient vector caching
 
 
-Future Improvements
+Future Improvements 
 -------------------
 - Streaming responses
 - LangSmith evaluation datasets
