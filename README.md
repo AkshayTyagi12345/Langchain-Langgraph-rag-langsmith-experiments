@@ -25,17 +25,20 @@ Tech Stack
 Project Structure
 -----------------
 .
-|-- simple_llm_call.py
-|-- sequential_chain.py
-|-- rag_v1.py
-|-- rag_v2.py
-|-- rag_3.py
-|-- rag_4.py
-|-- agent_react_weather.py
-|-- rag_5_langgraph.py
-|-- islr.pdf
-|-- .env
-|-- README.md
+## 📁 Project Structure
+
+- simple_llm_call.py
+- sequential_chain.py
+- rag_v1.py
+- rag_v2.py
+- rag_v3.py
+- rag_v4.py
+- agent_react_weather.py
+- rag_5_langgraph.py
+- islr.pdf
+- .env
+- README.md
+
 
 
 File Explanations
